@@ -25,7 +25,7 @@ A modern and interactive **3D Portfolio Website** designed to showcase personal 
 
 2. Navigate to the project directory:
    cd 3d-portfolio-website
-[
-   https://github.com/ahlem-brahmi/3D-Portfolio-Website-HTML-CSS-Javascript/to/1.png](https://ahlem-brahmi.github.io/3D-Portfolio-Website-HTML-CSS-Javascript/)
+
+3. Click: https://ahlem-brahmi.github.io/3D-Portfolio-Website-HTML-CSS-Javascript/
 
 
